@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm SaffiUllah aka QariSahab</h1>
+<h1 align="center"> 👨🏼‍💻 SaffiUllah aka QariSahab</h1>
 <h3 align="center">A Passionate ComputerScience Student</h3>
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saffiullah786&label=Profile%20views&color=0e75b6&style=flat" alt="saffiullah786" /> </p>
 
 - 🌱 I’m currently learning **everything hehe xD :)**
 
